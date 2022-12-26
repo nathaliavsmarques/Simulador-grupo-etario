@@ -1,0 +1,2 @@
+# Simulador-grupo-etario
+ Esse projeto consiste em um simulador de grupo etário canino, onde a pessoa irá preencher o campo com a idade de seu cachorro e o programa irá retornar em qual grupo etário ele se encontra. Na realização desse projeto além do HTML e CSS eu coloquei em prática alguns dos conhecimentos que aprendi em JavaScript até então. Este é o primeiro projeto que consigo desenvolver fazendo uso de algumas ferramentas de JavaScript.
